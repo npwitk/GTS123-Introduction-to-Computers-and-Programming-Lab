@@ -1,0 +1,7 @@
+print("Group Name: Love Python")
+print("------------------------")
+print("1: 6622772422  Nonprawich Intakaew")
+print("2: 6622771937  Tanyarat Tossapong")
+print("3: 6622772406  Pitinun Wiphumitsitsakul")
+print("4: 6622772430  Suppakrit Suknirun")
+print("5: 6622771929  Suthanai Pongpatanasuengs")
