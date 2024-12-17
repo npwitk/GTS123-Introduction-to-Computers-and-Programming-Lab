@@ -1,4 +1,4 @@
-# GTS123: Introduction to Computers and Programming
+# GTS123: Introduction to Computers and Programming (Laboratory)
 
 This repository contains Python files for **GTS123: Introduction to Computers and Programming**, a one-semester course at SIIT, Thammasat University. The course introduces basic programming concepts and hands-on practice with Python, covering topics such as variables, input/output, control flow (`if`, `else`, loops), data structures (lists, dictionaries, sets), functions, and an introduction to libraries like NumPy for numerical computations.
 
