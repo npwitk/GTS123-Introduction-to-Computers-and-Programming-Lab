@@ -5,3 +5,5 @@ This repository contains Python files for **GTS123: Introduction to Computers an
 The repository is organized by weekly lab topics, starting from basic concepts to more advanced topics.
 
 I have also provided practice quizzes for both the midterm and final exams from our year.
+
+![](https://raw.githubusercontent.com/npwitk/GTS123-Introduction-to-Computers-and-Programming-Lab/refs/heads/main/readme_screenshot.png)
